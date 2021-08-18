@@ -1,4 +1,4 @@
-Automatic changes
+
 ---
 
 title: "Nathan's blog"
