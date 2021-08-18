@@ -1,4 +1,3 @@
-
 ---
 
 title: "Nathan's blog"
